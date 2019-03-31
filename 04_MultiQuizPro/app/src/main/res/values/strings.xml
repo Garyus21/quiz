@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">UNUM</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">Start Over</string>
+
+    <array name="all_questions">
+        <item>¿A tomado medicamento en los últimos tres días?;Si;*No</item>
+        <item>¿Se ha realizado algún tatuaje en el último año?;Si;*No</item>
+        <item>¿Pesa más de 50 kilos?;*Si;No</item>
+        <item>¿Presenta problemas de presión arterial?;Si;*No</item>
+        <item>¿A descansado al menos seis horas antes de la donación?;*Si;No</item>
+        <item>Si desea donar sangre el dia de hoy ¿Se encuentra en ayunas?;*Si;No</item>
+        <item>¿A presentado síntomas de fiebre o síntomas parecidos en los últimos siete días?;Si;*No</item>
+    </array>
+
+</resources>
